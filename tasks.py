@@ -110,3 +110,6 @@ def clean_up():
     """Cleans up the folders where receipts and screenshots are saved."""
     shutil.rmtree("./output/receipts")
     shutil.rmtree("./output/screenshots")
+
+
+    """Hello"""
